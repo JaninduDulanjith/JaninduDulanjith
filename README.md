@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janindu Dulanjith Jayasundara</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px align="center"></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px"></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🌱 I’m currently learning **OOP with JAVA**
