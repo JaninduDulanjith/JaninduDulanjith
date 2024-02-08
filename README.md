@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Kavindu Theekshana</h1>
+<h1 align="center">Hi 👋, I'm Janindu Dulanjith Jayasundara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it22897008-kavindutheekshana&label=Profile%20views&color=0e75b6&style=flat" alt="it22897008-kavindutheekshana" /> </p>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about *java*
 
-- 📫 How to reach me *kavindutheekshana2000@gmail.com*
+- 📫 How to reach me *janindujayasundara@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DPCuCVs3JbXLS2vrvn0sIoYNirH5MShu/view?usp=drive_link](https://drive.google.com/file/d/1DPCuCVs3JbXLS2vrvn0sIoYNirH5MShu/view?usp=drive_link)
 
